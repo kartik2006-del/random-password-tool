@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🔑 Random Password Generator
 
