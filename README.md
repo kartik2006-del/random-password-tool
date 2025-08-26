@@ -1,5 +1,4 @@
 ---
-
 ### 🔑 Random Password Generator – `README.md`
 ```markdown
 # Random Password Generator 🔑
